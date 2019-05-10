@@ -1,8 +1,8 @@
-title: Stack Problems
+title: Azure DevOps MVP
 description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
+author: Yakup Uzuncam
+github: https://github.com/yakupuzuncam
+about: I'm Developer for.Net and Azure DevOps.
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
@@ -39,7 +39,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://yakupuzuncam.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
